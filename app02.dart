@@ -6,8 +6,10 @@ void main() {
   //caso contrario mas adelante dart lo puede confundir con un int
   double pi=3.1415;
   print('Edad $a - $pi');
-//String----------------------------------
+  //String----------------------------------
   String nombre='lemaedu';
-  print('Nombre: $nombre');
+  String apellido="lema";
+  
+  print('Nombre: $nombre - Apellido: $apellido');
   
 }
